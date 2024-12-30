@@ -1,0 +1,7 @@
+Original number: 00010010111
+Radix: 2
+Binary: Octal: Hexadecimal: Original number: 4021410310
+Radix: 6
+Binary: Octal: Hexadecimal: Original number: B89DFABCEE5B3E3F10BC
+Radix: 16
+Binary: Octal: Hexadecimal: 
