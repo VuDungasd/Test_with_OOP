@@ -1,4 +1,4 @@
-package org.example.Bai_1;
+package org.example.Bai_3;
 
 import java.io.FileWriter;
 import java.io.IOException;

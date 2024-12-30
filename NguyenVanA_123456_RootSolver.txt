@@ -1,0 +1,11 @@
+Hàm không có dấu ngược tại các điểm biên: [2.0, 3.0].
+Phương pháp: Bisection
+Hàm: sin(x) * x + 2 * x - 3
+Khoảng: [0.0, 4.0]
+Nghiệm: 1.0468153953552246
+
+Phương pháp: Bisection
+Hàm: sin(x) * x + 2 * x - 3
+Khoảng: [-1.0, 2.5]
+Nghiệm: 1.0468154549598694
+
